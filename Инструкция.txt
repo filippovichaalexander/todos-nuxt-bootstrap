@@ -1,0 +1,6 @@
+Для запуска проекта на локальном ПК выполните следующие действия:
+
+1. Выполните в консоли команду git clone https://github.com/filippovichaalexander/todos-nuxt-bootstrap.git
+2. Выполните вход в локальную папку проекта
+3. Выполните команду npm run dev
+4. Откройте страницу на localhost
